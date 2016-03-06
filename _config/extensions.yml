@@ -1,0 +1,13 @@
+---
+Name: mysharecare
+Before: 'opengraph/*'
+---
+PageWithExtendedImage:
+  extensions:
+    - SocialMediaImageExtension
+    - ShareCare
+    - ShareCareFields
+PageAndImage:
+  extensions:
+    - ShareCare
+    - ShareCareFields
